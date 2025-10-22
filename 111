@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>云计算与分布式系统课程作业</title>
+    <style>
+        body {
+            font-family: "Microsoft YaHei", sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+            margin-top: 100px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        .info {
+            margin-top: 40px;
+            padding: 20px;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            display: inline-block;
+            text-align: left;
+        }
+        .info p span {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>云计算与分布式系统课程作业</h1>
+    <div class="info">
+        <p><span>姓名：</span>段皓严</p>
+        <p><span>学号：</span>2531062233</p>
+        <p><span>课程名称：</span>云计算与分布式系统</p>
+        <p><span>部署时间：</span>2025年10月21日</p>
+        <p><span>部署平台：</span>GitHub Pages</p>
+    </div>
+
+    <p style="margin-top:40px;">✅ 网页已成功部署并可通过 GitHub Pages 访问。</p>
+</body>
+</html>
